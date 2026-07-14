@@ -40,16 +40,15 @@ This application demonstrates the basics of Flutter state management using `setS
 
 ## UI:
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/5887c18b-b380-48b8-a16d-208bcc926308" />
-<br>
+
 ## Added Tasks:
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/bb28c1d1-901d-41c3-a992-f36886479a10" />
-<br>
+
 ## Deleted Tasks:
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/640fecba-5620-4b56-be1a-02c461e6a6a1" />
-<br>
+
 ## marked complete:
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/74236e6f-03f4-4a7e-8e4f-d9b400771492" />
-<br>
 
 
 ## 🚀 Getting Started
